@@ -512,5 +512,5 @@ int main()
     load_deleted_from_file();
     load_data_from_file();
     list();
-    cout<<endl;
+    
 }
